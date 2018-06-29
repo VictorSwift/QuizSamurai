@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Natural Disaster Quiz</string>
+    <string name="question_1">1. What is the shortage of water for an excessive period of time?</string>
+    <string name="question_1_answer">Example: Cyclone</string>
+    <string name="question_2">2. Disasters frequently result in ?</string>
+    <string name="question_2_check_a">Damage to the ecological environment</string>
+    <string name="question_2_check_b">Sustained public attention during the recovery phase</string>
+    <string name="question_2_check_c">Destruction of a population"s homeland</string>
+    <string name="question_2_check_d">Displacement of population</string>
+    <string name="question_3">3. Trees and other green plants remove OXYGEN from the atmosphere (through photosynthesis)?</string>
+    <string name="question_3_radiobutton_a">True</string>
+    <string name="question_3_radiobutton_b">False</string>
+    <string name="question_4">4. What Natural occurrence is depicted in the Image As shown above</string>
+    <string name="question_4_answer">Example: Fire</string>
+    <string name="question_5">5. Hurricanes only occur near water</string>
+    <string name="question_5_radiobutton_a">True</string>
+    <string name="question_5_radiobutton_b">False</string>
+    <string name="submit_button">Submit</string>
+    <string name="question_6">6. What is the study of earthquakes called?</string>
+    <string name="question_6_answer">Example: Meteorology</string>
+    <string name="question_7">7. Identify these Natural Disasters as shown</string>
+    <string name="question_7_check_a">Tornado</string>
+    <string name="question_7_check_b">Earthquake</string>
+    <string name="question_7_check_c">Volcanic Eruption</string>
+    <string name="question_7_check_d">Flood</string>
+    <string name="question_8">8. Dust storms are common in arid regions?</string>
+    <string name="question_8_radiobutton_a">True</string>
+    <string name="question_8_radiobutton_b">False</string>
+</resources>
